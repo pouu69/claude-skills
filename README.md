@@ -1,6 +1,6 @@
 # claude-skills
 
-Claude Code custom skills collection. Based on [gstack](https://github.com/garrytan/gstack).
+Claude Code custom skills collection.
 
 ## Available Skills
 
