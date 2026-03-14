@@ -26,3 +26,7 @@ ln -s /tmp/claude-skills/plan-ceo-review ~/.claude/skills/plan-ceo-review
 ln -s /tmp/claude-skills/plan-eng-review ~/.claude/skills/plan-eng-review
 ln -s /tmp/claude-skills/retro ~/.claude/skills/retro
 ```
+
+## Credits
+
+All skills are sourced from [gstack](https://github.com/garrytan/gstack) by [Garry Tan](https://github.com/garrytan).
