@@ -4,11 +4,11 @@ Claude Code custom skills collection. Based on [gstack](https://github.com/garry
 
 ## Available Skills
 
-| Skill | Description |
-|-------|-------------|
-| `/plan-ceo-review` | CEO/founder-mode plan review. Three modes: SCOPE EXPANSION, HOLD SCOPE, SCOPE REDUCTION. 10-section deep review with error mapping, security, observability, and deployment analysis. |
-| `/plan-eng-review` | Engineering manager-mode plan review. Interactive 4-section review (Architecture, Code Quality, Tests, Performance) with opinionated recommendations. |
-| `/retro` | Weekly engineering retrospective. Analyzes commit history, work patterns, code quality metrics with persistent history and trend tracking. Team-aware. |
+| Skill | Description | Source |
+|-------|-------------|--------|
+| `/plan-ceo-review` | CEO/founder-mode plan review. Three modes: SCOPE EXPANSION, HOLD SCOPE, SCOPE REDUCTION. 10-section deep review with error mapping, security, observability, and deployment analysis. | [gstack](https://github.com/garrytan/gstack) |
+| `/plan-eng-review` | Engineering manager-mode plan review. Interactive 4-section review (Architecture, Code Quality, Tests, Performance) with opinionated recommendations. | [gstack](https://github.com/garrytan/gstack) |
+| `/retro` | Weekly engineering retrospective. Analyzes commit history, work patterns, code quality metrics with persistent history and trend tracking. Team-aware. | [gstack](https://github.com/garrytan/gstack) |
 
 ## Setup
 
@@ -27,6 +27,3 @@ ln -s /tmp/claude-skills/plan-eng-review ~/.claude/skills/plan-eng-review
 ln -s /tmp/claude-skills/retro ~/.claude/skills/retro
 ```
 
-## Credits
-
-All skills are sourced from [gstack](https://github.com/garrytan/gstack) by [Garry Tan](https://github.com/garrytan).
