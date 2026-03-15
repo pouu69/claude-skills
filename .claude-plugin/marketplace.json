@@ -24,6 +24,12 @@
       "source": "./retro",
       "description": "Weekly engineering retrospective based on commit history and code quality metrics",
       "version": "1.0.0"
+    },
+    {
+      "name": "data-storytelling",
+      "source": "./data-storytelling",
+      "description": "Transform raw data into compelling narratives that drive decisions and inspire action.\n\n",
+      "version": "1.0.0"
     }
   ]
 }
