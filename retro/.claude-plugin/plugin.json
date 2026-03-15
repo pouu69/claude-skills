@@ -1,0 +1,7 @@
+{
+  "name": "retro",
+  "description": "Weekly engineering retrospective based on commit history and code quality metrics",
+  "author": {
+    "name": "pouu69"
+  }
+}
