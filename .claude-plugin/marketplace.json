@@ -41,7 +41,7 @@
       "name": "database",
       "source": "./database",
       "description": "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
