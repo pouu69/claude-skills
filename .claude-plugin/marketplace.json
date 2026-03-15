@@ -31,11 +31,16 @@
       "description": "Transform raw data into compelling narratives that drive decisions and inspire action.\n\n",
       "version": "1.0.1"
     },
-
     {
       "name": "data-analyst",
       "source": "./data-analyst",
       "description": "SQL, pandas, and statistical analysis expertise for data exploration and insights. Use when: analyzing data, writing SQL queries, using pandas, performing statistical analysis, or when user mentions data analysis, SQL, pandas, statistics, or needs help exploring datasets.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "database",
+      "source": "./database",
+      "description": "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.",
       "version": "1.0.0"
     }
   ]
