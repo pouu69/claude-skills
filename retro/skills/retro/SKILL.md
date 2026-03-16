@@ -1,5 +1,5 @@
 ---
-name: retro
+name: redesign-skill
 version: 2.0.0
 description: |
   Weekly engineering retrospective. Analyzes commit history, work patterns,
@@ -57,7 +57,7 @@ Usage: /retro [window]
 First, fetch origin and identify the current user:
 ```bash
 git fetch origin main --quiet
-# Identify who is running the retro
+# Identify who is running the redesign-skill
 git config user.name
 git config user.email
 ```

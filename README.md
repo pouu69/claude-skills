@@ -24,6 +24,6 @@ Or symlink individual skills:
 git clone git@github.com:pouu69/claude-skills.git /tmp/claude-skills
 ln -s /tmp/claude-skills/plan-ceo-review ~/.claude/skills/plan-ceo-review
 ln -s /tmp/claude-skills/plan-eng-review ~/.claude/skills/plan-eng-review
-ln -s /tmp/claude-skills/retro ~/.claude/skills/retro
+ln -s /tmp/claude-skills/redesign-skill ~/.claude/skills/redesign-skill
 ```
 
