@@ -47,7 +47,7 @@
       "name": "taste-skills",
       "source": "./taste-skills",
       "description": "A collection of skills that improve how AI tools write frontend code. Instead of generating generic, boring interfaces, the AI builds modern, premium designs with proper animations, spacing, and visual quality.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
